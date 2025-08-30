@@ -60,7 +60,7 @@ El usuario se registra o inicia sesión.
 
 Accede a la pantalla de Reservar Cita.
 
-Selecciona la fecha <img width="1290" height="2796" alt="6000-firebase-studio-1756564362243 cluster-f73ibkkuije66wssuontdtbx6q cloudworkstations dev_login(iPhone 14 Pro Max) (1)" src="https://github.com/user-attachments/assets/1e679389-6b4e-41af-b76c-69c2c627f3ba" />
+Selecciona la fecha 
 y hora con el DateTimePicker.
 
 Ingresa el motivo de la cita.
@@ -70,3 +70,11 @@ Se guarda la cita en Firestore.
 15 minutos antes, recibe una notificación push.
 
 Puede consultar el historial de citas.
+
+Capturas del programa 
+<img width="1290" height="2796" alt="6000-firebase-studio-1756564362243 cluster-f73ibkkuije66wssuontdtbx6q cloudworkstations dev_login(iPhone 14 Pro Max) (4)" src="https://github.com/user-attachments/assets/4d069e19-0381-436d-915c-8483bcc55397" />
+<img width="1290" height="2796" alt="6000-firebase-studio-1756564362243 cluster-f73ibkkuije66wssuontdtbx6q cloudworkstations dev_login(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/a832383f-cf44-4357-b21a-6fdccd328467" />
+<img width="1290" height="2796" alt="6000-firebase-studio-1756564362243 cluster-f73ibkkuije66wssuontdtbx6q cloudworkstations dev_login(iPhone 14 Pro Max) (6)" src="https://github.com/user-attachments/assets/c0628da1-d4b2-4b5a-8d2e-5ba9104df3c2" />
+<img width="1290" height="2796" alt="6000-firebase-studio-1756564362243 cluster-f73ibkkuije66wssuontdtbx6q cloudworkstations dev_login(iPhone 14 Pro Max) (5)" src="https://github.com/user-attachments/assets/ccd18fec-07c1-4abb-b7b2-516f215de2ec" />
+<img width="1290" height="2796" alt="6000-firebase-studio-1756564362243 cluster-f73ibkkuije66wssuontdtbx6q cloudworkstations dev_login(iPhone 14 Pro Max) (1)" src="https://github.com/user-attachments/assets/f2ecb70c-87cc-447b-97c5-7221f56f6c34" />
+<img width="1290" height="2796" alt="6000-firebase-studio-1756564362243 cluster-f73ibkkuije66wssuontdtbx6q cloudworkstations dev_login(iPhone 14 Pro Max) (3)" src="https://github.com/user-attachments/assets/5386d024-1947-4d8e-b644-7ec0f041efb7" />
